@@ -1,0 +1,4 @@
+include ':utf7ime2'
+include ':app:utf7ime'
+include ':app'
+rootProject.name = "Ins"
